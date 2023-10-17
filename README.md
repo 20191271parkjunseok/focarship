@@ -10,8 +10,8 @@ The 3rd Kookmin University  self-driving competition
 ## 주행영상
 
 # 팀원
-- 임현진
+- 송경민
 - 박준석
-- 정혁제 
-- 장정안 
-- 조현준
+- 김지민 
+- 강기범 
+- 박재훈
