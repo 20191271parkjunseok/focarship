@@ -8,6 +8,7 @@ The 3rd Kookmin University  self-driving competition
 - 완주상
 
 ## 주행영상
+https://youtu.be/t55b2D557qc
 
 # 팀원
 - 송경민
